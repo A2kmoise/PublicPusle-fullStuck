@@ -8,11 +8,11 @@ export default function About() {
     <Layout>
       <div className="container py-12">
         <div className="max-w-3xl mx-auto">
-          <h1 className="text-3xl font-bold mb-4">About CiviConnect</h1>
+          <h1 className="text-3xl font-bold mb-4">About PublicPulse</h1>
           
           <div className="prose max-w-none">
             <p className="text-lg text-muted-foreground mb-8">
-              CiviConnect is a citizen engagement platform designed to streamline communication between citizens and government agencies, ensuring public issues are addressed efficiently and effectively.
+              PublicPulse is a citizen engagement platform designed to streamline communication between citizens and government agencies, ensuring public issues are addressed efficiently and effectively.
             </p>
             
             <h2 className="text-2xl font-bold mt-8 mb-4">Our Mission</h2>
@@ -20,7 +20,7 @@ export default function About() {
               Our mission is to transform how citizens interact with government services by creating a transparent, efficient, and responsive complaint management system. We believe that when citizens can easily report issues and track their resolution, communities thrive.
             </p>
             
-            <h2 className="text-2xl font-bold mt-8 mb-4">How CiviConnect Works</h2>
+            <h2 className="text-2xl font-bold mt-8 mb-4">How PublicPusle Works</h2>
             <ol className="space-y-4 mb-6">
               <li>
                 <strong>Submit:</strong> Citizens submit complaints or feedback about public services through our user-friendly web platform.
@@ -67,7 +67,7 @@ export default function About() {
             <div className="bg-gray-50 p-6 rounded-lg border mb-8">
               <h2 className="text-xl font-bold mb-3">Our Commitment to Privacy</h2>
               <p>
-                We take data privacy seriously. All personal information submitted through CiviConnect is securely stored and only used for the purpose of addressing your complaint. We never share your data with third parties without your consent.
+                We take data privacy seriously. All personal information submitted through PublicPulse is securely stored and only used for the purpose of addressing your complaint. We never share your data with third parties without your consent.
               </p>
             </div>
           </div>
